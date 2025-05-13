@@ -27,8 +27,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/retro-editor.git
-cd retro-editor
+https://github.com/Pygrammerik/Retroeditor.git
+cd Retroeditor
 ```
 
 2. Установите необходимые зависимости:
